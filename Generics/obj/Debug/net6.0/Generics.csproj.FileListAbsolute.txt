@@ -1,0 +1,15 @@
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/bin/Debug/net6.0/Generics
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/bin/Debug/net6.0/Generics.deps.json
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/bin/Debug/net6.0/Generics.dll
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/bin/Debug/net6.0/Generics.pdb
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.csproj.AssemblyReference.cache
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.dll
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/refint/Generics.dll
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.pdb
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache
+/Users/sh1riyev/Desktop/Projects/Generics/Generics/obj/Debug/net6.0/ref/Generics.dll
